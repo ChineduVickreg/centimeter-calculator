@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f95c7c55-c3de-4403-b546-3e540b5b422d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BigOProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigOProject/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigOProject/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigOProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigOProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigOProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigOProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigOProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigOProject/BigOProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigOProject/src/com/Vickreg/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigOProject/test/com/Vickreg/SelectionSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CentimeterConverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CentimeterConverter/udemyFullCourse/TimBuchalkaExpressionsAndStatements/CentimeterConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/udemyFullCourse/TimBuchalkaExpressionsAndStatements/CentimeterConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter10/Chapter10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter14/Chapter14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/Chapter6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/Chapter8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckNumber/CheckNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericCollection/GenericCollection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfKeywordsAndCodeBlocks/IfKeywordsAndCodeBlocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaFileStreams/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaFileStreams/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaFileStreams/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaFileStreams/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaFileStreams/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaFileStreams/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaFileStreams/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaFileStreams/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaFileStreams/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LambdaFileStreams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas/Lambdas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas/src/StreamFilterMapReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas/src/StreamFilterMapReduceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/out/production/Operators/udemyfullcourse/timbuchalkavariables/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/udemyfullcourse/timbuchalkavariables/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/PoundConverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/out/production/PoundConverter/udemyfullcourse/timbuchalkavariables/PoundConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundConverter/src/udemyfullcourse/timbuchalkavariables/PoundConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/udemyFullCourse/TimBuchalkaExpressionsAndStatements/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/test/udemyFullCourse/TimBuchalkaExpressionsAndStatements/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScoreBoard/ScoreBoard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/SpeedConverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/src/udemyFullCourse/TimBuchalkaExpressionsAndStatements/SpeedConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDPractice/TDDPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/EvenNumbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/EvenNumbers/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/EvenNumbers/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/EvenNumbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/EvenNumbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/EvenNumbers/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/EvenNumbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/EvenNumbers/EvenNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/EvenNumbers/out/production/EvenNumbers/com/vickreg/EvenNumbers2To100.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/EvenNumbers/src/com/vickreg/EvenNumbers2To100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/PatterPrinting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/PatterPrinting/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/PatterPrinting/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/PatterPrinting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/PatterPrinting/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/PatterPrinting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/PatterPrinting/PatterPrinting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/PatterPrinting/out/production/PatterPrinting/com/vickreg/PrintingPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/PatterPrinting/src/com/vickreg/PrintingPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/SmallestValue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/com/vickreg/SmallestValueCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/out/test/SmallestValue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/out/test/SmallestValue/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/out/test/SmallestValue/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/out/test/SmallestValue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/out/test/SmallestValue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/out/test/SmallestValue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/out/test/SmallestValue/SmallestValue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/out/test/SmallestValue/com/vickreg/SmallestValueCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/out/test/SmallestValue/com/vickreg/SmallestValueCheckTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/SmallestValue/src/com/vickreg/SmallestValueCheckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/barChartPrintingProgram/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/barChartPrintingProgram/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/barChartPrintingProgram/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/barChartPrintingProgram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/barChartPrintingProgram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/barChartPrintingProgram/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/barChartPrintingProgram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/barChartPrintingProgram/barChartPrintingProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/barChartPrintingProgram/out/production/barChartPrintingProgram/BarChart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/barChartPrintingProgram/src/BarChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/barChartPrintingProgram/src/BarChartUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/calculatingSales/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/calculatingSales/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/calculatingSales/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/calculatingSales/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/calculatingSales/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/calculatingSales/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/calculatingSales/calculatingSales.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/calculatingSales/src/com/vickreg/SalesCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/checkBoard432/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/checkBoard432/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/checkBoard432/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/checkBoard432/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/checkBoard432/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/checkBoard432/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/checkBoard432/checkBoard432.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/checkBoard432/src/CheckBoardAsterisks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/decreement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/decreement/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/decreement/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/decreement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/decreement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/decreement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/decreement/decreement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/decreement/out/production/decreement/com/vickreg/ReversedNumberCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/decreement/src/com/vickreg/ReversedNumberCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/decreement/src/com/vickreg/ReversedNumberCount2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/factorials/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/factorials/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/factorials/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/factorials/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/factorials/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/factorials/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/factorials/factorials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/factorials/out/production/factorials/com/vickreg/FactorialCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/factorials/src/com/vickreg/FactorialCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/productOfOddNumbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/productOfOddNumbers/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/productOfOddNumbers/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/productOfOddNumbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/productOfOddNumbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/productOfOddNumbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/productOfOddNumbers/out/production/productOfOddNumbers/com/vickreg/OddNumberProducts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/productOfOddNumbers/productOfOddNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/productOfOddNumbers/src/com/vickreg/OddNumberProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/switch1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/switch1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/switch1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/switch1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/switch1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/switch1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/switch1/out/production/switch1/com/vickreg/OddOrEven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/switch1/src/com/vickreg/OddOrEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/switch1/switch1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/timeKeeper/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/timeKeeper/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/timeKeeper/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/timeKeeper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/timeKeeper/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/timeKeeper/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/timeKeeper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/timeKeeper/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/timeKeeper/src/udemyFullCourse/TimBuchalkaExpressionsAndStatements/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter5/timeKeeper/timeKeeper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter7_ArraysAndArrayLists/array1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter7_ArraysAndArrayLists/array1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter7_ArraysAndArrayLists/array1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter7_ArraysAndArrayLists/array1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter7_ArraysAndArrayLists/array1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter7_ArraysAndArrayLists/array1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter7_ArraysAndArrayLists/array1/array1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter7_ArraysAndArrayLists/array1/src/SalesCommission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter7_ArraysAndArrayLists/array1/test/SalesCommissionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fibonacci/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fibonacci/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fibonacci/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fibonacci/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fibonacci/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fibonacci/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fibonacci/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fibonacci/fibonacci.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fibonacci/src/com/vickreg/CalculatorSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fibonacci/test/com/vickreg/CalculatorSpeedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../god.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/out/production/recursion2/udemyFullCourse/TimBuchalkaExpressionsAndStatements/RecursivePower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/out/test/recursion2/udemyFullCourse/TimBuchalkaExpressionsAndStatements/RecursivePowerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/recursion2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/src/udemyFullCourse/TimBuchalkaExpressionsAndStatements/RecursivePower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion2/test/udemyFullCourse/TimBuchalkaExpressionsAndStatements/RecursivePowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/out/production/recursion3/udemyFullCourse/TimBuchalkaExpressionsAndStatements/GreatestCommonDivisor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/out/test/recursion3/udemyFullCourse/TimBuchalkaExpressionsAndStatements/GreatestCommonDivisorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/recursion3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/src/udemyFullCourse/TimBuchalkaExpressionsAndStatements/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion3/test/udemyFullCourse/TimBuchalkaExpressionsAndStatements/GreatestCommonDivisorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/out/production/recursion4/udemyFullCourse/TimBuchalkaExpressionsAndStatements/Palindromes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/out/test/recursion4/udemyFullCourse/TimBuchalkaExpressionsAndStatements/PalindromesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/recursion4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/src/udemyFullCourse/TimBuchalkaExpressionsAndStatements/Palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion4/test/udemyFullCourse/TimBuchalkaExpressionsAndStatements/PalindromesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/chapter16/genricCollection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled104.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dpxOdX9lWcFWfYxr9sso76Zons" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="udemyFullCourse.TimBuchalkaExpressionsAndStatements.CentimeterConverter" />
+      <module name="CentimeterConverter" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f95c7c55-c3de-4403-b546-3e540b5b422d" name="Default Changelist" comment="" />
+      <created>1593135804314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593135804314</updated>
+      <workItem from="1593135809518" duration="14103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="598" height="174" key="GridCell.Tab.0.bottom" timestamp="1593532672854">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="598" height="174" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1593532672854" />
+    <state width="598" height="174" key="GridCell.Tab.0.center" timestamp="1593532672854">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="598" height="174" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1593532672854" />
+    <state width="598" height="174" key="GridCell.Tab.0.left" timestamp="1593532672854">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="598" height="174" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1593532672854" />
+    <state width="598" height="174" key="GridCell.Tab.0.right" timestamp="1593532672854">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="598" height="174" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1593532672854" />
+    <state x="181" y="0" key="new project wizard" timestamp="1593501846055">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="181" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1593501846055" />
+  </component>
+</project>
